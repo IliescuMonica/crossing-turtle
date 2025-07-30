@@ -30,5 +30,5 @@ The player controls a turtle that must cross the screen while avoiding moving ca
 - Efficient screen updates using `.tracer()` and `.update()`
 
 ---
-This is a small project created while following Angela Yu’s 100 Days of Code Python course.
+This is a small project from day 23 created while following Angela Yu’s 100 Days of Code Python course.
 The main goal was to practice class design, game loops, and the use of Turtle graphics.
